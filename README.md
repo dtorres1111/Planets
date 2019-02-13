@@ -4,3 +4,4 @@
 * Earth
 * Mars
 * Saturn
+* Uranus
